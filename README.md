@@ -30,7 +30,8 @@ Para representar numeros complejos se utiliza la estructura de tupla, en la cual
 - Norma de un vector
 - Distancia entre vectores
 - Conjugada
-
+## Para las simulasiones
+- Usar el archivo classicalToQuantum.py con los los test en PruebasQuantum
 ## Programado con
 
 Las librerias fueron programadas utilizando Pyhton 3.9 utilizando el IDE Pycharm
